@@ -1,2 +1,2 @@
 let reg="faizansk814"
-let regpass=7896
+let regpass=78960000
